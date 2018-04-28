@@ -1,0 +1,11 @@
+---
+layout: post
+title: Presentación
+date: 2017-09-12 13:32:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: galvarino-presentation.jpg # Add image post (optional)
+comments: false
+tags: [datos, presentación]
+---
+Becado por INABEC para realizar sus estudios de pregrado en Rusia. En 2004 ingresa a la Universidad Estatal de Arquitectura e Ingeniería Civil de San Petersburgo. En 2009 culmina sus estudios universitarios de Ingeniería Civil e Industrial con excelencia. En 2009 después de su graduación del Departamento de Mecánica Estructural de la UEAICSP comenzó su actividad científica y práctica. Se convierte en estudiante de doctorado en el Departamento de Mecánica Estructural de la UEAICSP. En enero de 2013 obtiene el grado de Doctor of Philosophy en la UEAICSP. Desde 2013, asiste a cursos especialización del departamento de Mecánica Aplicada de la Universidad Estatal Politécnica de San Petersburgo. Enrique es especialista en dinámica estructural, análisis no lineal de estructuras y control pasivo de vibraciones. Desde octubre de 2009 hasta diciembre de 2011, como Ing. Estructural tiene una participación activa en el diseño del nuevo Aeropuerto Internacional de San Petersburgo. Desde 2010 hasta 2012 trabaja como asesor y especialista en Ing. Sismo-Resistente durante el diseño y edificación de la estación de trenes para los juegos olímpicos de Sochi, "Parque Olímpico". Desde 09/2011 - 09/2012 bajo la dirección del Prof. Mark Klyachko trabaja en el centro Alianza Regional para el análisis y reducción de desastres (RADAR), llevando a cabo numerosos proyectos de rehabilitación y reforzamiento de estructuras en las ciudades de kamchatka y la Isla de Sajalín, Rusia. Sus trabajos tanto en el campo del comportamiento no lineal de estructuras como en el campo de reforzamiento sísmico son conocidos por la comunidad profesional de San Petersburgo gracias a la contribución a la ciencia y la práctica de la Ing. sismo-resistente.Enrique es autor y co-autor de 14 trabajos científicos que incluyen 13 artículos y una monografía: "Análisis de los efectos sísmicos para la elección razonable del factor de reducción". Líneas de Investigación: Control Pasivo, Análisis No Lineal de Estructuras.
+## Datos Académicos
