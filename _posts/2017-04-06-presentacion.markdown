@@ -8,4 +8,3 @@ comments: false
 tags: [datos, presentación]
 ---
 Ingeniero civil, por la Universidad Católica de Santa María de Arequipa, Maestría en Ingeniería (Estructuras) por la Universidad Nacional Autónoma de México UNAM.
-## Datos Académicos
